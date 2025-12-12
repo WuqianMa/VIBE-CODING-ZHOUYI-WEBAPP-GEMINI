@@ -9,7 +9,7 @@ This contains everything you need to run your app locally.
 View your app in AI Studio: https://ai.studio/apps/drive/1o5BmHucsDfCWnfxSAqQqvRCwAxotgEA7
 
 Demo: 
-![Demo]([https://www.youtube.com/watch?v=3CM1_Ji6fJ8](https://youtu.be/Bey7mNUOQ_A?si=S6XICqEzXfsTofe2))
+![Demo]([https://www.youtube.com/watch?v=3CM1_Ji6fJ8])
 
 
 ## Run Locally
